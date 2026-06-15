@@ -33,3 +33,10 @@ print("after swapping:", a, b)
 
 </body>
 </html>
+#python program 
+num1 = float(input("Enter first number: "))
+num2 = float(input("Enter second number: "))
+
+# Calculate the sum
+result = num1 + num2
+print(f"The sum is: {result}")
