@@ -40,4 +40,3 @@ num2 = float(input("Enter second number: "))
 # Calculate the sum
 result = num1 + num2
 print(f"The sum is: {result}")
-
